@@ -1,5 +1,7 @@
-# Python
 __pycache__/
-*.py[cod]
-.venv/
+*.pyc
 .env
+.venv
+venv/
+*.log
+.DS_Store
